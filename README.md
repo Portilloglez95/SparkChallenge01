@@ -67,11 +67,17 @@ ___
 ___
 ### - Summary:
 1.- Set up required development environments locally.
+
 2.- Configure Github account with VCS.
+
 3.- Request IBM Cloud access.
+
 4.- Download project files from Box.
+
 5.- Develop baseline project.
+
 6.- Coding.
+
 7.- 
 ___
 ### - Findings:
