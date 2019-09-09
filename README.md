@@ -31,6 +31,16 @@ ___
     
 * Upload results to IBM Cloud.
 
+1. Sold the same amount of products (+)
+2. Same amount of sold dollars (*)
+
+| ID | QTY | $$ |
+| :-------- | :-------: | --------: |
+| 1 | 1 (+) | $20 () |
+| 2 | 3 | $70 |
+| 3 | 2 | $20 () |
+| 4 | 1 (+) | $100 |
+
 ___
 ### - Gherkin: 
 - Scenario:
