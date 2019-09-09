@@ -1,15 +1,38 @@
-  // Last update: __________ 
+  * Last update: September 13 2019. 
 # SparkChallenge01
 
 ### - Introduction: 
+This is a challenge provided by Cloud Analytics 4 
 
+### Prerequisites
+|             ----               |                         
+| ------------------------------ |
+| Github enterprise account      |
+| VCS installed locally (Git)    |
+| IntelliJ IDEA Community edition|
+| IBM DB2 WoC account actived    | 
+___
+### - Tecnical Requirements:
 
+* Apache Spark 2.3.0 version.
+* Scala 2.11.12 version.
+* Use Version Control System.
+* Tests using FunSuite
+* Add .gitignore file in repo.
+* Encode credentials.
 
-### - Requisites:
+* Spark cores:
 
+    | <10,000 = 1 Core
+    
+    | >= 10,001 && <= 30,000 = 2 Cores
+    
+    | > 30,000 = 30,000 = *
+    
+* Upload results to IBM Cloud.
 
-
-### - Objectives: 
+___
+### - Gherkin: 
 - Scenario:
 
   Given
@@ -17,6 +40,8 @@
   When 
   
   Then 
+  
+  ___
 
 - Scenario: 
 
@@ -26,6 +51,8 @@
   
   Then 
 
+___
+
 - Scenario: 
 
   Given 
@@ -34,14 +61,21 @@
   
   Then 
 
-
+___
 ### - Development:
 
-
+___
 ### - Summary:
-
-
+1.- Set up required development environments locally.
+2.- Configure Github account with VCS.
+3.- Request IBM Cloud access.
+4.- Download project files from Box.
+5.- Develop baseline project.
+6.- Coding.
+7.- 
+___
 ### - Findings:
 
-
+___
 ### - Conclusions:
+
