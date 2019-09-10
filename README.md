@@ -3,6 +3,18 @@
 
 ### - Introduction: 
 This is a challenge provided by Cloud Analytics 4 
+Explained: 3 documentos con 3 columnas y tomando en consideración las columnas de cantidad y de precio se creará una nueva tabla (dataframe) con 2 columnas: 
+Dataframe 1) qty y duplicados 
+Dataframe 2) precio y duplicados
+
+Metricas a evaluar:
+performance con c/u de los núcleos 
+tiempo de procesamiento con c/u
+comportamiento 
+
+Proceso:
+Crear tests de c/u de los elementos que son evaluados, así como excepciones encontradas.
+Evaluar el performance mediante la consola de Spark GUI localhost:4040
 
 ### Prerequisites
 |             ----               |                         
@@ -43,9 +55,9 @@ ___
 
 ___
 ### - Gherkin: 
-- Scenario:
+- Scenario: 
 
-  Given
+  Given 
 
   When 
   
