@@ -55,35 +55,7 @@ ___
 
 ___
 ### - Gherkin: 
-- Scenario: 
-
-  Given 
-
-  When 
-  
-  Then 
-  
-  ___
-
-- Scenario: 
-
-  Given 
-  
-  When 
-  
-  Then 
-
-___
-
-- Scenario: 
-
-  Given 
-  
-  When 
-  
-  Then 
-
-___
+Write some scenarios using TDD and ScalaFunsuite.
 ### - Development:
 
 ___
